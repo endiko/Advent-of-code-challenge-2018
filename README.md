@@ -1,6 +1,6 @@
 # Advent-of-code-challenge-2018
 
-December of 2018 was intense for me) <br>
+December 2018 was intense for me) <br>
 
 I'm a newbie in JS <br> 
 
